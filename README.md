@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andy, welcome to my github! ☕  
+I'm Andy, and welcome to my github! ☕  
 
 - 🌱 I'm a 2B Computer Engineering student at the University of Waterloo
 - 🔭 I've previously interned at VirtaMove, and the Government of Canada 

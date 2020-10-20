@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Andy, welcome to my github! ☕  
+
+- 🌱 I'm a 2B Computer Engineering student at the University of Waterloo
+- 🔭 I've previously interned at VirtaMove, and the Government of Canada 
+- 👯 I’m currently seeking a Winter 2021 internship in software development 
+- 📫 Let's chat! My website is [here](https://andyren.me) and my resume can be found [here](https://andyren.me/Resume_2B_v5.pdf)
+
 <!--
 **ren-andy/ren-andy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

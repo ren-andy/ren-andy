@@ -3,7 +3,7 @@
 I'm Andy, and welcome to my github! ☕  
 
 - 🌱 I'm a 2B Computer Engineering student at the University of Waterloo
-- 🔭 Incoming Embedded SW intern at Nuvation Energy 🔋. I've previously interned at VirtaMove 🖥️, and the Government of Canada 🍁. 
+- 🔭 Incoming Embedded SW intern at Nuvation Energy 🔋. Previously interned at VirtaMove 🖥️, and Gov. of Canada 🍁. 
 - 👯 I’m currently seeking a Winter 2021 internship in software development 
 - 📫 Let's chat! My website is [here](https://andyren.me) and my resume can be found [here](https://andyren.me/Resume_2B_v5.pdf)
 - 💪 Fun fact: I'm an avid athlete - I love to lift weights  and run long distances 

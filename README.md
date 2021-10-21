@@ -5,7 +5,7 @@ I'm Andy, and welcome to my github! ☕
 - 🌱 I'm a 3B Computer Engineering student at the University of Waterloo
 - 💼 I'm currently seeking a Winter 2022 internship relating to embedded software, and hardware/RTL verification and design
 - 🔭 I've previously interned at Nuvation Energy 🔋, VirtaMove 🖥️, and Gov. of Canada 🍁 
-- 📫 Let's chat! My website is [here](https://andyren.me) and my resume can be found [here](https://andyren.me/Resume_3B_v7.pdf
+- 📫 Let's chat! My website is [here](https://andyren.me) and my resume can be found [here](https://andyren.me/Resume_3B_v7.pdf)
 - 💪 Fun fact: I'm an avid athlete - I love to lift weights and running long distances (aiming for a 6 minute mile)
 
 <!--- 👯 I’m currently seeking a Winter 2021 internship in software development

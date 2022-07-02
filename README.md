@@ -4,6 +4,7 @@ I'm Andy, and welcome to my Github! ☕
 
 - 🌱 I'm a 4A Computer Engineering student at the University of Waterloo
 - 💼 I'm an incoming SWE @ Cruise, working on the Embedded Linux team
+- 🚆 I lead the firmware subteam for Waterloop, a student design team @ uwaterloo
 - ⚡ My interests are in embedded and firmware development, hardware, RTL, and IC verification and design
 - 🔭 I've previously interned at Arista Networks 🌐,Nuvation Energy 🔋, VirtaMove 🖥️, and Gov. of Canada 🍁 
 - 📫 Let's chat! My website is [here](https://andyren.me) and my resume can be found [here](https://andyren.me/Resume_3B_v9.pdf)

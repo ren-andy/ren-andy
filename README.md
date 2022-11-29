@@ -3,7 +3,7 @@
 I'm Andy, and welcome to my Github! ☕  
 
 - 🌱 I'm a 4A Computer Engineering student at the University of Waterloo
-- 💼 I'm a SWE intern @ Cruise, working on the Embedded Linux team
+- 💼 I'm a SWE intern @ Cruise, working on the Embedded OS team
 - 🚆 I'm an advisor for the firmware subteam at Waterloop, a student design team @ uwaterloo
 - ⚡ My interests are in embedded and firmware development, hardware, RTL, and IC verification and design
 - 🔭 I've previously interned at Arista Networks 🌐,Nuvation Energy 🔋, VirtaMove 🖥️, and Gov. of Canada 🍁 

@@ -2,10 +2,14 @@
 
 I'm Andy, and welcome to my Github! ☕  
 
+- 💼 I'm a software engineer at Cruise 🚗 - helping build the next generation embedded operating system for self-driving cars.
+- 🌱 I graduated with a Bachelor's of Applied Science in Computer Engineering from the University of Waterloo in 2023.
+
+<!--
 - 🌱 I study Computer Engineering at the University of Waterloo
 - ⚡ I have a background and focus in embedded software, particularly linux kernel development and RTL 
 - 💼 Previous work include OS for self-driving cars 🚗, hardware bringup for network switches 📶, and general firmware for battery management systems 🔋. 
-- 🚆 I advise for the firmware sub-team for Waterloop, a student design team
+- 🚆 I advise for the firmware sub-team for Waterloop, a student design team --> 
 
 <!-- - 🌱 I'm a 4B Computer Engineering student at the University of Waterloo
 - 💼 I'm a SWE intern @ Cruise, working on the Embedded OS team

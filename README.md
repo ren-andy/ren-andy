@@ -2,7 +2,7 @@
 
 I'm Andy, and welcome to my Github! ☕  
 
-- 💼 I'm a software engineer at Cruise 🚗 - helping build the next generation embedded operating system for self-driving cars.
+- 💼 I'm a software engineer at Cruise 🚗
 - 🌱 I graduated with a Bachelor's of Applied Science in Computer Engineering from the University of Waterloo in 2023.
 
 <!--
